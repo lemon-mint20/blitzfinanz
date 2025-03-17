@@ -1,0 +1,1 @@
+docker exec -it py bash -c "pip install -r /scripts/requirements.txt"
